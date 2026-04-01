@@ -1,4 +1,4 @@
-# Hands-On AST (Astronomical Source Type) Classification
+# Hands-On 
 
 A complete exploratory data analysis and tutorial for astronomical object classification between **galaxies** and **stars** using photometric and morphological features.
 
